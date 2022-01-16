@@ -1,0 +1,20 @@
+{
+  "name": "fanvercel-bot",
+  "version": "1.0.0",
+  "description": "auto voice channel for private guild",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "latest",
+    "discord.js": "latest",
+    "fs": "latest",
+    "mongoose": "latest",
+    "npm": "latest",
+    "tweetnacl": "latest"
+  }
+}

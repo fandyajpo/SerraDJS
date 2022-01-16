@@ -1,0 +1,7 @@
+{
+    "PREFIX": ".",
+    "MEMBER": "@everyone",
+    "TRUE": "✅",
+    "FALSE": "❌",
+    "LOCKED": "🔒"
+}
